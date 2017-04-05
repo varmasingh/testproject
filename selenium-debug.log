@@ -1,0 +1,17 @@
+17:13:49.958 INFO - Launching a standalone Selenium Server
+17:13:50.049 INFO - Java: Oracle Corporation 25.121-b13
+17:13:50.049 INFO - OS: Windows 8.1 6.3 amd64
+17:13:50.063 INFO - v2.53.1, with Core v2.53.1. Built from revision a36b8b1
+17:13:50.141 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+17:13:50.141 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+17:13:50.154 INFO - Driver provider org.openqa.selenium.safari.SafariDriver registration is skipped:
+registration capabilities Capabilities [{browserName=safari, version=, platform=MAC}] does not match the current platform WIN8_1
+17:13:50.155 INFO - Driver class not found: org.openqa.selenium.htmlunit.HtmlUnitDriver
+17:13:50.155 INFO - Driver provider org.openqa.selenium.htmlunit.HtmlUnitDriver is not registered
+17:13:50.295 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+17:13:50.295 INFO - Selenium Server is up and running
+17:13:50.721 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Google, browserName=firefox, javascriptEnabled=true, platform=ANY}]])
+17:13:50.733 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Google, browserName=firefox, javascriptEnabled=true, platform=ANY}]
+17:13:59.081 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Google, browserName=firefox, javascriptEnabled=true, platform=ANY}]]
+17:13:59.106 INFO - Executing: [get: http://google.co.in])
+17:14:05.856 INFO - Done: [get: http://google.co.in]
