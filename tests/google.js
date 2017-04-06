@@ -6,4 +6,5 @@ module.exports = {
       .url('http://google.co.in')
       
   }
+  
 };

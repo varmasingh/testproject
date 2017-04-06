@@ -1,1 +1,1 @@
-node nightwatch.js  -t tests\google.js
+node nightwatch.js --reporter lib/nightwatch/html-reporter.js  -t tests\google.js
